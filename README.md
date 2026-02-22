@@ -1,3 +1,5 @@
 # OUTRA COISA SKIDDADA KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 
 GS ATUAL DO KAUDY, SOURCE ORIGINAL: https://github.com/plooshi/Erbium
+
+OBS: Funciona em qualquer versão
